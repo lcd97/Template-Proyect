@@ -1,0 +1,72 @@
+﻿@model IEnumerable<XalliHotel.Models.TipoDeEntrada>
+
+@{
+    ViewBag.Title = "Inventario";
+}
+            <!--INICIO DE LA SECCION-->
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="main-card mb-3 card">
+                        <div class="card-body">
+                            <div class="card-header">
+                                <h5 class="card-title">Tipos de Entradas</h5>
+                                <div class="btn-actions-pane-right">
+                                    <!--INICIO DEL BOTON-->
+                                    <a href="@Url.Action("Create", "TipoDeEntradas")" class="mb-2 mr-2 btn-transition btn btn-outline-primary">
+                                        <i class="fa fa-plus"></i>
+                                    </a>
+                                    <!--FIN DEL BOTON-->
+                                </div>
+                            </div>
+
+                            <!--INICIO DE LA TABLA-->
+                            <div class="table-responsive">
+                                <table id="myTable" class="mb-0 table table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>@Html.DisplayNameFor(model => model.codTE)</th>
+                                            <th>@Html.DisplayNameFor(model => model.descTE)</th>
+                                            <th>@Html.DisplayName("Acciones")</th>
+                                        </tr>
+                                    </thead>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td style="width : 33.333%">
+                                                @Html.DisplayFor(modelItem => item.codTE)
+                                            </td>
+                                            <td style="width : 33.333%">
+                                                @Html.DisplayFor(modelItem => item.descTE)
+                                            </td>
+                                            <td>
+                                                <a class="mb-2 mr-2 btn btn-primary" href = "@Url.Action("Edit", "TipoDeEntradas", new { id = item.Id})">
+                                                    Editar
+                                                </a>
+                                                <button class="btn mr-2 mb-2 btn-primary" data-toggle="modal" data-target="#exampleModal">
+                                                    Detalles
+                                                </button>
+
+                                                @*<a class="mb-2 mr-2 btn btn-success" data-toggle="modal" data-target="#exampleModal"> 
+                                                    Detalles
+                                                </a>*@
+                                            </td>
+                                        </tr>
+                                    }
+                                </table>
+                                <!--FIN DE LA TABLA-->                             
+                            </div>
+                            <br />
+                            <!--INICIO PAGINACION-->
+                            <nav class="" aria-label="Page navigation example">
+                                <ul class="pagination" id="myPager"></ul>
+                            </nav>
+                            <!--FIN PAGINACION-->                            
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--FIN DE LA SECCION-->
+
+
+
+@Scripts.Render("~/bundles/jquery")

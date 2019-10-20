@@ -1,0 +1,354 @@
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\csc.exe
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\vbc.exe
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.dll.config
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.pdb
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Antlr3.Runtime.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.SqlServer.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Newtonsoft.Json.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Owin.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Helpers.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Mvc.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Optimization.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Razor.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\WebGrease.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Helpers.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Mvc.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Optimization.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Razor.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Antlr3.Runtime.pdb
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Newtonsoft.Json.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.SqlServer.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Razor.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.csprojResolveAssemblyReference.cache
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.dll
+C:\Users\Estudiante\Desktop\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.pdb
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\csc.exe
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\System.Collections.Immutable.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\System.Reflection.Metadata.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\vbc.exe
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\VBCSCompiler.exe
+E:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\VBCSCompiler.exe.config
+E:\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.dll.config
+E:\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.pdb
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Antlr3.Runtime.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.SqlServer.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Google.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Web.Infrastructure.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Newtonsoft.Json.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Owin.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Helpers.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Mvc.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Optimization.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Razor.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Deployment.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Razor.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\WebGrease.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Helpers.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Mvc.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Optimization.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Razor.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Deployment.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Razor.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Antlr3.Runtime.pdb
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Newtonsoft.Json.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.SqlServer.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Google.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Helpers.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Mvc.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Optimization.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Razor.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\EntityFramework.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\EntityFramework.SqlServer.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Google.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.csprojResolveAssemblyReference.cache
+E:\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.dll
+E:\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.pdb
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\csc.exe
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\System.Collections.Immutable.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\System.Reflection.Metadata.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\vbc.exe
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\VBCSCompiler.exe
+D:\Daniela chan\XalliHotel\XalliHotel\bin\roslyn\VBCSCompiler.exe.config
+D:\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.dll.config
+D:\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\XalliHotel.pdb
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Antlr3.Runtime.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.SqlServer.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Google.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Web.Infrastructure.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Newtonsoft.Json.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Owin.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Helpers.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Mvc.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Optimization.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Razor.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Deployment.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Razor.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\WebGrease.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\EntityFramework.SqlServer.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Helpers.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Mvc.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Optimization.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.Razor.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Deployment.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\System.Web.WebPages.Razor.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Antlr3.Runtime.pdb
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Newtonsoft.Json.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Google.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\EntityFramework.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\EntityFramework.SqlServer.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Helpers.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Mvc.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Optimization.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.Razor.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Google.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.csprojAssemblyReference.cache
+D:\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.csproj.CoreCompileInputs.cache
+D:\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.csproj.CopyComplete
+D:\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.dll
+D:\Daniela chan\XalliHotel\XalliHotel\obj\Debug\XalliHotel.pdb
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\csc.exe
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\vbc.exe
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\VBCSCompiler.exe
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\XalliHotel.dll.config
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\XalliHotel.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\XalliHotel.pdb
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Antlr3.Runtime.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\EntityFramework.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\EntityFramework.SqlServer.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Newtonsoft.Json.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Owin.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.Helpers.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.Mvc.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.Optimization.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.Razor.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.WebPages.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\WebGrease.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\EntityFramework.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\EntityFramework.SqlServer.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.Helpers.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.Mvc.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.Optimization.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.Razor.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.WebPages.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Antlr3.Runtime.pdb
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Newtonsoft.Json.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\System.Web.Razor.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\obj\Debug\XalliHotel.Migrations.InitialCreate.resources
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\obj\Debug\XalliHotel.csproj.GenerateResource.Cache
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\obj\Debug\XalliHotel.dll
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\obj\Debug\XalliHotel.pdb
+C:\Users\Daniela\Desktop\XalliHotel\XalliHotel\obj\Debug\XalliHotel.csprojResolveAssemblyReference.cache

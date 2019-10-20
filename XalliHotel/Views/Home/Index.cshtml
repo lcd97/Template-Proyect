@@ -1,0 +1,196 @@
+﻿@{
+    ViewBag.Title = "Dashboard";
+}
+
+                <!--INICIO DEL DASHBOARD-->                
+                <!--INICIO CUADROS FLOTANTES-->
+                <div class="row">
+                    <!--INICIO CUADRO ORDENES-->
+                    <div class="col-md-6 col-xl-4">
+                        <div class="card mb-3 widget-content">
+                            <div class="widget-content-outer">
+                                <div class="widget-content-wrapper">
+                                    <div class="widget-content-left">
+                                        <div class="widget-heading">Ordenes</div>
+                                        <div class="widget-subheading">Total de Ordenes</div>
+                                    </div>
+                                    <div class="widget-content-right">
+                                        <div class="widget-numbers text-success">50</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--FIN CUADRO ORDENES-->
+
+                    <!--INICIO CUADRO FACTURACION-->
+                    <div class="col-md-6 col-xl-4">
+                        <div class="card mb-3 widget-content">
+                            <div class="widget-content-outer">
+                                <div class="widget-content-wrapper">
+                                    <div class="widget-content-left">
+                                        <div class="widget-heading">Facturación</div>
+                                        <div class="widget-subheading">Total Facturado</div>
+                                    </div>
+                                    <div class="widget-content-right">
+                                        <div class="widget-numbers text-warning">$3K</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--FIN CUADRO FACTURACION-->
+
+                    <!--INICIO CUADRO VENTAS-->
+                    <div class="col-md-6 col-xl-4">
+                        <div class="card mb-3 widget-content">
+                            <div class="widget-content-outer">
+                                <div class="widget-content-wrapper">
+                                    <div class="widget-content-left">
+                                        <div class="widget-heading">Ventas</div>
+                                        <div class="widget-subheading">Porcentaje de Ventas</div>
+                                    </div>
+                                    <div class="widget-content-right">
+                                        <div class="widget-numbers text-danger">12,9%</div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <!--FIN CUADRO VENTAS-->
+                </div>
+                <!--FIN CUADRO FLOTANTES-->
+
+
+                <!--INICIO CONTROL DE MESAS-->
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="main-card mb-3 card">
+
+                            <div class="card-header">Control de mesas</div>
+
+                            <!--INICIO DE TABLA-->
+                            <div class="table-responsive">
+                                <table class="align-middle mb-0 table table-borderless table-striped table-hover">
+
+                                    <!--COLUMNAS DE LA TABLA-->
+                                    <thead>
+                                        <tr>
+                                            <th class="text-center">No. Mesa</th>
+                                            <th>Cliente</th>
+                                            <th class="text-center">Habitación</th>
+                                            <th class="text-center">Hora Ingreso</th>
+                                            <th class="text-center">Estado</th>
+                                            <th class="text-center">Acciones</th>
+                                        </tr>
+                                    </thead>
+                                    <!--FINAL DE LAS COLUMNAS DE LA TABLA-->
+                                    <!--INICIO DE LAS FILAS DE LA TABLA-->
+                                    <tbody>
+                                        <tr>
+                                            <td class="text-center text-muted"># 1</td>
+                                            <td>
+                                                <div class="widget-content p-0">
+                                                    <div class="widget-content-wrapper">
+                                                        <div class="widget-content-left mr-3">
+                                                        </div>
+                                                        <div class="widget-content-left flex2">
+                                                            <div class="widget-heading">John Doe</div>
+                                                            <div class="widget-subheading opacity-7">Huésped</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="text-center"># 9</td>
+                                            <td class="text-center">10:45</td>
+                                            <td class="text-center">
+                                                <div class="badge badge-warning">Facturacion</div>
+                                            </td>
+                                            <td class="text-center">
+                                                <button type="button" id="PopoverCustomT-1" class="btn btn-primary btn-sm">Detalles</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center text-muted"># 5</td>
+                                            <td>
+                                                <div class="widget-content p-0">
+                                                    <div class="widget-content-wrapper">
+                                                        <div class="widget-content-left mr-3">
+                                                        </div>
+                                                        <div class="widget-content-left flex2">
+                                                            <div class="widget-heading">Ruben Tillman</div>
+                                                            <div class="widget-subheading opacity-7">Huésped</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="text-center"># 2</td>
+                                            <td class="text-center">10:59</td>
+                                            <td class="text-center">
+                                                <div class="badge badge-success">Completado</div>
+                                            </td>
+                                            <td class="text-center">
+                                                <button type="button" id="PopoverCustomT-2" class="btn btn-primary btn-sm">Detalles</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center text-muted"># 3</td>
+                                            <td>
+                                                <div class="widget-content p-0">
+                                                    <div class="widget-content-wrapper">
+                                                        <div class="widget-content-left mr-3">
+                                                        </div>
+                                                        <div class="widget-content-left flex2">
+                                                            <div class="widget-heading">Elliot Huber</div>
+                                                            <div class="widget-subheading opacity-7">Visitante</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="text-center">N/A</td>
+                                            <td class="text-center">10:59</td>
+                                            <td class="text-center">
+                                                <div class="badge badge-danger">En Proceso</div>
+                                            </td>
+                                            <td class="text-center">
+                                                <button type="button" id="PopoverCustomT-3" class="btn btn-primary btn-sm">Detalles</button>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td class="text-center text-muted"># 7</td>
+                                            <td>
+                                                <div class="widget-content p-0">
+                                                    <div class="widget-content-wrapper">
+                                                        <div class="widget-content-left mr-3">
+                                                        </div>
+                                                        <div class="widget-content-left flex2">
+                                                            <div class="widget-heading">Vinnie Wagstaff</div>
+                                                            <div class="widget-subheading opacity-7">Visitante</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </td>
+                                            <td class="text-center">N/A</td>
+                                            <td class="text-center">12:00</td>
+                                            <td class="text-center">
+                                                <div class="badge badge-info">Atendiendo</div>
+                                            </td>
+                                            <td class="text-center">
+                                                <button type="button" id="PopoverCustomT-4" class="btn btn-primary btn-sm">Detalles</button>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                    <!--FINAL DE LAS FILAS DE LA TABLA-->
+                                </table>
+                            </div>
+                            <!--FINAL DE LA TABLA-->
+                            <!--INICIO FOOTER TABLA-->
+                            <div class="d-block text-center card-footer">
+                                <button class="btn-wide btn btn-success">Refrescar</button>
+                            </div>
+                            <!--FINAL FOOTER TABLA-->
+                        </div>
+                    </div>
+                </div>
+                <!--FINAL CONTROL DE MESAS-->
+<!--FIN DEL DASHBOARD-->

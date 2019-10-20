@@ -1,0 +1,94 @@
+﻿@model IEnumerable<XalliHotel.Models.Categoria>
+
+@{
+    ViewBag.Title = "Inventario";
+}
+
+            <!--INICIO DE LA SECCION-->
+            <div class="row">
+                <div class="col-lg-6">
+                    <div class="main-card mb-3 card">
+                        <div class="card-body">
+
+
+                            @*<div class="col-lg-6">
+                                <h5 class="card-title">Categorias</h5>
+                            </div>*@
+
+                            <div class="card-header">
+                                <h5 class="card-title">Categorias</h5>
+                                <div class="btn-actions-pane-right">
+                                    <!--INICIO DEL BOTON-->
+                                    <a href="@Url.Action("Create", "Categorias")" class="mb-2 mr-2 btn-transition btn btn-outline-primary">
+                                            <i class="fa fa-plus"></i>
+                                    </a>
+                                    <!--FIN DEL BOTON-->
+                                </div>
+                            </div>
+
+                            <!--INICIO DE LA TABLA-->
+                            <div class="table-responsive">
+                                <table id="myTable" class="mb-0 table table-hover">
+                                    <thead>
+                                        <tr>
+                                            <th>@Html.DisplayNameFor(model => model.codCat)</th>
+                                            <th>@Html.DisplayNameFor(model => model.descCat)</th>
+                                            <th>@Html.DisplayName("Acciones")</th>
+                                            @*<th>@Html.DisplayNameFor(model => model.estadoCat)</th>*@
+                                        </tr>
+                                    </thead>
+                                    @foreach (var item in Model)
+                                    {
+                                        <tr>
+                                            <td style="width : 33.333%">
+                                                @Html.DisplayFor(modelItem => item.codCat)
+                                            </td>
+                                            <td style="width : 33.333%">
+                                                @Html.DisplayFor(modelItem => item.descCat)
+                                            </td>
+                                            @*<td>
+                                            @Html.DisplayFor(modelItem => item.estadoCat)
+                                            </td>*@
+                                            <td >
+                                                <a href="@Url.Action("Edit", "Categorias", new { id = item.Id})"
+                                                   class="mb-2 mr-2 btn btn-primary">
+                                                    Editar
+                                                </a>
+                                                <a href="@Url.Action("Details", "Categorias", new { id = item.Id})"
+                                                   class="mb-2 mr-2 btn btn-success">
+                                                    Detalles
+                                                </a>
+                                                @*<a href="@Url.Action("Delete", "Categorias", new { id = item.Id})"
+                                                   class="mb-2 mr-2 btn btn-danger">
+                                                    Eliminar
+                                                </a>*@
+
+                                                @*@Html.ActionLink("Editar", "Edit", new { id = item.Id }) |
+                            @Html.ActionLink("Detalles", "Details", new { id = item.Id }) |
+                            @Html.ActionLink("Eliminar", "Delete", new { id = item.Id })*@
+                                            </td>
+                                        </tr>
+                                    }
+                                </table>
+                                <!--FIN DE LA TABLA-->
+                            </div>
+                            <br />
+                            <nav class="" aria-label="Page navigation example">
+                                <ul class="pagination" id="myPager">
+                                    @*<li class="page-item"><a href="javascript:void(0);" class="page-link" aria-label="Previous"><span aria-hidden="true">«</span><span class="sr-only">Previous</span></a></li>
+                                    <li class="page-item"><a href="javascript:void(0);" class="page-link">1</a></li>
+                                    <li class="page-item active"><a href="javascript:void(0);" class="page-link">2</a></li>
+                                    <li class="page-item"><a href="javascript:void(0);" class="page-link">3</a></li>
+                                    <li class="page-item"><a href="javascript:void(0);" class="page-link">4</a></li>
+                                    <li class="page-item"><a href="javascript:void(0);" class="page-link">5</a></li>
+                                    <li class="page-item"><a href="javascript:void(0);" class="page-link" aria-label="Next"><span aria-hidden="true">»</span><span class="sr-only">Next</span></a></li>*@
+                                </ul>
+                            </nav>
+                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!--FIN DE LA SECCION-->      
+
+    @Scripts.Render("~/bundles/jquery")

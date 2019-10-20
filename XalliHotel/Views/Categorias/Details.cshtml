@@ -1,0 +1,40 @@
+﻿@model XalliHotel.Models.Categoria
+
+@{
+    ViewBag.Title = "Inventario";
+}
+
+            <div class="main-card mb-3 card">
+                <div class="card-body">
+                    <h5 class="card-title">Detalle</h5>
+                    <br />
+                    <div>
+                        <div class="input-group">
+                            <div class="input-group-prepend"><span class="input-group-text" style="width : 95px;">Código</span></div>
+                            <a class="form-control">
+                                @Html.DisplayFor(model => model.codCat)
+                            </a>
+                        </div>
+                        <br>
+                        <div class="input-group">
+                            <div class="input-group-prepend"><span class="input-group-text" style="width : 95px;">Descripción</span></div>
+                            <a class="form-control">
+                                @Html.DisplayFor(model => model.descCat)
+                            </a>
+                        </div>
+                        <br>
+                        <div class="input-group">
+                            <div class="input-group-prepend"><span class="input-group-text" style="width : 95px">Estado</span></div>
+                            <a class="form-control">
+                                @ViewBag.Estado
+                                @*@Html.Display("Estado", (string)ViewBag.Estado)*@
+                            </a>
+                        </div>
+
+
+                        <a href="@Url.Action("index", "Categorias")" class="btn btn-primary">
+                            Regresar
+                        </a>    
+                    </div>
+                </div>
+            </div>

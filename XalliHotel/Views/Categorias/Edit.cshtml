@@ -1,0 +1,178 @@
+﻿@model XalliHotel.Models.Categoria
+
+@{
+    ViewBag.Title = "Inventario";
+}
+
+
+@*@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <h4>Categoria</h4>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.codCat, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.codCat, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.codCat, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.descCat, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.descCat, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.descCat, "", new { @class = "text-danger" })
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.estadoCat, htmlAttributes: new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                <div class="checkbox">
+                    @Html.EditorFor(model => model.estadoCat)
+                    @Html.ValidationMessageFor(model => model.estadoCat, "", new { @class = "text-danger" })
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+@*<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>*@
+
+@*@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")*@
+
+            <!--INICIO FORMULARIO DE CREACION-->
+            <div class="main-card mb-3 card">
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    @Html.HiddenFor(model => model.Id)
+    @Html.HiddenFor(model => model.codCat)
+                <!--INICIO FORMULARIO INTERNO-->
+                <div class="card-body">
+
+
+                    <h5 class="card-title">Categorias</h5>
+
+
+                    @*@using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                        @Html.HiddenFor(model => model.Id)
+                        @Html.HiddenFor(model => model.codCat)*@
+
+
+                    <!--INICIA EL PRIMER CONTAINER-->
+                        <div class="form-row">
+                          
+                            <div class="col-md-6 mb-3">
+
+                                @Html.LabelFor(model => model.codCat, htmlAttributes: new { })
+                                @Html.EditorFor(model => model.codCat, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ingrese aquí el código", disabled = "disabled" } })
+                                @Html.ValidationMessageFor(model => model.codCat, "", new { @class = "text-danger" })
+                            </div>
+                            <!--FIN CONTAINER-->
+
+                            <div class="col-md-6 mb-3">
+                                @Html.LabelFor(model => model.estadoCat, htmlAttributes: new { })
+                                @Html.DropDownListFor(x => x.estadoCat, new List<SelectListItem>
+                                {
+                                    new SelectListItem() {Text = "Activo", Value="true"},
+                                    new SelectListItem() {Text = "Inactivo", Value="false"},
+                                }, htmlAttributes: new { @class = "form-control"})
+
+
+                                @Html.ValidationMessageFor(model => model.estadoCat, "", new { @class = "text-danger" })
+
+                            </div>
+                            
+                        </div>
+
+
+                        <div class="form-row">
+                            <div class="col-md-12 mb-3">
+                                @Html.LabelFor(model => model.descCat, htmlAttributes: new { })
+                                @Html.EditorFor(model => model.descCat, new { htmlAttributes = new { @class = "form-control", @placeholder = "Ingrese aquí el nombre de la categoría" } })
+                                @Html.ValidationMessageFor(model => model.descCat, "", new { @class = "text-danger" })
+                            </div>
+                        </div>
+
+                        @*<div class="form-row">
+                            <div class="col-md-12 mb-3">
+                                @Html.LabelFor(model => model.estadoCat, htmlAttributes: new { })
+                                <div class="custom-checkbox custom-control">
+                                    @Html.EditorFor(model => model.estadoCat)
+                                    @Html.ValidationMessageFor(model => model.estadoCat, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>*@
+
+
+                    
+
+
+                        @*<div class="form-group">
+                            @Html.LabelFor(model => model.estadoCat, htmlAttributes: new { @class = "control-label col-md-2" })
+                            <div class="col-md-10">
+                                <div class="checkbox">
+                                    @Html.EditorFor(model => model.estadoCat)
+                                    @Html.ValidationMessageFor(model => model.estadoCat, "", new { @class = "text-danger" })
+                                </div>
+                            </div>
+                        </div>*@
+
+
+
+                        <a href="@Url.Action("index", "Categorias")" class="btn btn-primary">
+                            Regresar
+                        </a>
+                        <input type="submit" value="Guardar" class="btn btn-primary" />
+                    <!--INICIO CAMPOS INTERNOS-->
+              
+                    <!--FIN CAMPOS INTERNOS-->
+                    
+                    @*<script>
+                                    // Example starter JavaScript for disabling form submissions if there are invalid fields
+                                    (function() {
+                                        'use strict';
+                                        window.addEventListener('load', function() {
+                                            // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                                            var forms = document.getElementsByClassName('needs-validation');
+                                            // Loop over them and prevent submission
+                                            var validation = Array.prototype.filter.call(forms, function(form) {
+                                                form.addEventListener('submit', function(event) {
+                                                    if (form.checkValidity() === false) {
+                                                        event.preventDefault();
+                                                        event.stopPropagation();
+                                                    }
+                                                    form.classList.add('was-validated');
+                                                }, false);
+                                            });
+                                        }, false);
+                                    })();
+                    </script>*@
+
+                </div>
+                }
+                <!--FIN FORMULARIO INTERNO-->
+            </div>
+            <!--FIN FORMULARIO DE CREACION-->
